@@ -69,3 +69,8 @@ img{
   height: 100%;
   object-fit: cover;
 }
+@media (min-width: 480px) and (max-width:1200px){
+  body{
+    background-color: rgb(207, 203, 203);
+}
+}
