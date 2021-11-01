@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    background-color: rgb(244, 244, 244);
+}
+h1{
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(192, 147, 139);
+    padding: 30px;
+}
